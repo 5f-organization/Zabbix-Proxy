@@ -1,2 +1,2 @@
 # Zabbix-Proxy
-Repository for docker image Zabbix proxy. 
+Repository for installations Zabbix proxy. 
